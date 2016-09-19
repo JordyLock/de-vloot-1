@@ -1,0 +1,60 @@
+body{
+   background:white;
+   background-image: url();
+   background-repeat: no-repeat;
+   background-size:cover;
+   font-family: sans-serif;
+}
+div.top-menu {
+	background:white;
+	background-image: url(css/grfx/header.jpg);
+	background-repeat:no-repeat;
+	width: 750px;
+    border: 25px;
+    padding: 5px;
+    margin: 0px auto;
+    text-align: left; 
+    height: 200px;
+    background-size: cover;
+}
+li{
+	display: inline-table;
+	text-align: left;
+}
+div.boot1{
+margin: 0px auto;
+width:750px;
+font-size:120%;
+}
+img{
+float: left;
+
+}
+p.homepage{
+float:right;
+
+}
+
+p.desc {
+text-align: left;
+float: left;
+color: white;
+
+}
+
+a {
+
+	float: left;
+}
+p{
+	color: black;
+}
+div.foto1{
+border: 25px white;
+
+}
+img.top-left{
+
+	border: 25px solid;
+	border-color: white;
+}
