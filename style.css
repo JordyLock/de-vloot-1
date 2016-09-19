@@ -1,60 +1,55 @@
+* {
+padding:0;
+margin:0;
+}
+
 body{
-   background:white;
-   background-image: url();
-   background-repeat: no-repeat;
-   background-size:cover;
+   background-image: url(css/grfx/header.jpg), url(css/grfx/bg.png);
+   background-repeat: no-repeat, repeat-x;
+   background-position: top, top;
    font-family: sans-serif;
+   margin: auto;
+   padding-left: 50px;
 }
 div.top-menu {
-	background:white;
-	background-image: url(css/grfx/header.jpg);
-	background-repeat:no-repeat;
-	width: 750px;
-    border: 25px;
-    padding: 5px;
-    margin: 0px auto;
     text-align: left; 
-    height: 200px;
-    background-size: cover;
+    width:800px;
+    margin: auto;
+    padding-top:10px;
 }
-li{
-	display: inline-table;
-	text-align: left;
-}
-div.boot1{
-margin: 0px auto;
-width:750px;
+div.tekst{
+margin-top: 0px;
+margin: auto;
+padding-left: 10px;
+width:790px;
 font-size:120%;
-}
-img{
-float: left;
-
-}
-p.homepage{
-float:right;
-
-}
-
-p.desc {
+background-color: white;
+height: 490px;
 text-align: left;
-float: left;
-color: white;
+margin-left: -25px; 
+background: cover;
 
 }
-
+div.foto1{
+	float:left;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
 a {
 
 	float: left;
 }
-p{
-	color: black;
-}
-div.foto1{
-border: 25px white;
 
-}
-img.top-left{
-
-	border: 25px solid;
-	border-color: white;
+div a{
+	text-decoration: none;
+	color: rgb(96,198,200);
+	font-size: 20px;
+	padding:15px;
+	display: inline-block;
+	border-top:2px solid black;
+	border-left: 2px solid black;
+	border-bottom: 2px solid black;
+	border-right: 2px solid black;
+	margin-top: 150px;
 }
