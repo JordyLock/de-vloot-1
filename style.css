@@ -51,25 +51,26 @@ div a {
 	color:rgb(98,213,206);
 }
 a:link{
-	
-
+	color: rgb(98,213,206);
+	background-color: transparent;
 }
-div.foto1{
-border: 25px white;
-float:left;
-padding-top: 15px;
-padding-bottom: 15px;
-padding-right: 15px;
+a:hover {
+color: white;
+background-color: #0099cc;
 
+	}
+}
+img.topLeft{
+float: right;
 }
    
 div.tekst{
-	margin-top:0px;
 	width: 800px;
-	margin: auto;
+	margin: 0 auto;
 	background-color: white;
-	height: 400px;
-	text-align: left;
+	height: auto;
 	padding-left: 10px;
 
 }
+
+
