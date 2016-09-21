@@ -44,7 +44,7 @@ a:hover {
 color: white;
 background-color: #0099cc;
 
-	}
+}
 
 img.topLeft{
 float: left;
@@ -60,3 +60,64 @@ div.tekst{
 	vertical-align: top;
 
 }
+
+img.middleright{
+float: right;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-top: -5px;
+padding-left: -5px;
+}
+
+img.bottomleft{
+float: left;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-top: -5px;
+padding-left: -5px;
+
+
+}
+img.topmiddle{
+float: left;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-top: -5px;
+padding-left: -5px;
+
+}
+
+img.bottomright{
+float: right;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-top: -5px;
+padding-left: -5px;
+
+
+}
+img.bottommiddle{
+float: left;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-top: -5px;
+padding-left: -5px;
+
+
+}
+img.bottomleft{
+float: left;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-top: -5px;
+padding-left: -5px;
+
+
+}
+img.topright{
+float: right;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-top: -5px;
+padding-left: -5px;
+
